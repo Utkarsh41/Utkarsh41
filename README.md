@@ -30,6 +30,9 @@ You can click the Preview link to take a look at your changes.
 - 💬 Ask me about **Android development , Data structures and Algorithms ,Designing scalable applications**
 
 - 📫 How to reach me **utkarshtriapthi422@gmail.com**
+- Resume Link :-https://drive.google.com/file/d/19PvqW1f9wZFreTGnHddqPgPEP0MBndOt/view?usp=sharing
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh41&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh41" /> </p>
 
