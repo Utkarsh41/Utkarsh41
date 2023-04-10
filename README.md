@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 - 💬 Ask me about **Android development , Data structures and Algorithms ,Designing scalable applications**
 
 - 📫 How to reach me **utkarshtriapthi422@gmail.com**
-- Resume Link :-https://drive.google.com/file/d/19PvqW1f9wZFreTGnHddqPgPEP0MBndOt/view?usp=sharing
+- Resume Link :- https://drive.google.com/file/d/1xiw8CUrB5RGDUa2a-LBOQTNCXxveZ8Hp/view?usp=share_link
 
 
 
