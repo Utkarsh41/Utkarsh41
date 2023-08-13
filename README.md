@@ -1,11 +1,11 @@
 <!-- - 👋 Hi, I’m Utkarsh Tripathi a budding software developer and team player.
- Having keen interest in solving problems and learning new concepts & techniques 
- of Data Structure & Algorithm.Actively ,looking for SDE Intern roles.
+ Having a keen interest in solving problems and learning new concepts & techniques 
+ of Data Structure & algorithms. Actively, looking for SDE Intern roles.
  
 - 👀 I’m interested in solving problems and learning new concepts & techniques 
- of Data Structure & Algorithm along with android app development
-- 🌱 I’m currently learning ...Android devlopment
-- 📫 Connect me on linkedIn :-https://www.linkedin.com/in/utkarsh-tripathi-2a93271b3/
+ of Data Structure & Algorithm along with Android app development
+- 🌱 I’m currently learning ...Android development
+- 📫 Connect me on Linkedin:-https://www.linkedin.com/in/utkarsh-tripathi-2a93271b3/
 
 
 
@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <img align="center" alt="coding" width="1000" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
 
 <h1 align="center">Hi 👋, I'm Utkarsh Tripathi</h1>
-<h3 align="center">A budding software developer and team player. Having keen interest in solving problems and learning new concepts & techniques of Data Structure & Algorithm.Actively ,looking for SDE Intern roles.</h3>
+<h3 align="center">A budding software developer and team player. Having a keen interest in solving problems and learning new concepts & techniques of Data Structure & algorithms.Actively, looking for SDE Intern roles.</h3>
 
 
 - 🔭 I’m currently working on [AgroBez](https://github.com/Utkarsh41/AgroBez)
@@ -27,10 +27,10 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Utkarsh41](https://github.com/Utkarsh41)
 
-- 💬 Ask me about **Android development , Data structures and Algorithms ,Designing scalable applications**
+- 💬 Ask me about **Android development, Data structures and Algorithms,Designing scalable applications**
 
 - 📫 How to reach me **utkarshtriapthi422@gmail.com**
-- Resume Link :- https://drive.google.com/file/d/1xiw8CUrB5RGDUa2a-LBOQTNCXxveZ8Hp/view?usp=share_link
+- Resume Link :- https://drive.google.com/file/d/115Gm5y_SJ2cO2rvC5N7fxMEdPw5V4vxe/view?usp=sharing
 
 
 
